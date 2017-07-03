@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F343935C-619E-4138-859D-E4E31552A4EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Biblioteca_Master</RootNamespace>
+    <AssemblyName>Biblioteca_Master</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formularios\CadAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CadAluno.Designer.cs">
+      <DependentUpon>CadAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CadFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CadFunc.Designer.cs">
+      <DependentUpon>CadFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CatalogoLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CatalogoLivros.Designer.cs">
+      <DependentUpon>CatalogoLivros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\desabilitaraluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\desabilitaraluno.Designer.cs">
+      <DependentUpon>desabilitaraluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\desabilitarfunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\desabilitarfunc.Designer.cs">
+      <DependentUpon>desabilitarfunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Devolução.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Devolução.Designer.cs">
+      <DependentUpon>Devolução.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Emprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Emprestimo.Designer.cs">
+      <DependentUpon>Emprestimo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ExibirAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ExibirAluno.Designer.cs">
+      <DependentUpon>ExibirAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ExibirFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ExibirFunc.Designer.cs">
+      <DependentUpon>ExibirFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Renovar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Renovar.Designer.cs">
+      <DependentUpon>Renovar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Situacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Situacao.Designer.cs">
+      <DependentUpon>Situacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\CadAluno.resx">
+      <DependentUpon>CadAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CadFunc.resx">
+      <DependentUpon>CadFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CatalogoLivros.resx">
+      <DependentUpon>CatalogoLivros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\desabilitaraluno.resx">
+      <DependentUpon>desabilitaraluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\desabilitarfunc.resx">
+      <DependentUpon>desabilitarfunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Devolução.resx">
+      <DependentUpon>Devolução.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Emprestimo.resx">
+      <DependentUpon>Emprestimo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ExibirAluno.resx">
+      <DependentUpon>ExibirAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ExibirFunc.resx">
+      <DependentUpon>ExibirFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Renovar.resx">
+      <DependentUpon>Renovar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Situacao.resx">
+      <DependentUpon>Situacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

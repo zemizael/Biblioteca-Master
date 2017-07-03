@@ -1,0 +1,44 @@
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Form1.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Properties.Resources.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.csproj.GenerateResource.Cache
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\bin\Debug\Biblioteca_Master.exe
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\bin\Debug\Biblioteca_Master.pdb
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.exe
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.pdb
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Login.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Menu.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Situacao.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.CadAluno.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.CadFunc.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.CatalogoLivros.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.desabilitarfunc.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Emprestimo.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.ExibirAluno.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.ExibirFunc.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.desabilitaraluno.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.csprojResolveAssemblyReference.cache
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Devolução.resources
+C:\Users\zemiz\Desktop\Biblioteca Master\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Renovar.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.exe
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.pdb
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\bin\Debug\Biblioteca_Master.exe
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\bin\Debug\Biblioteca_Master.pdb
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.csprojResolveAssemblyReference.cache
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.CadAluno.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.CadFunc.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.CatalogoLivros.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.desabilitaraluno.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.desabilitarfunc.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Devolução.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Emprestimo.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.ExibirAluno.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.ExibirFunc.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Form1.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Login.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Menu.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Renovar.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Formularios.Situacao.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.Properties.Resources.resources
+C:\Users\zemiz\Desktop\Biblioteca Master 2.0\Biblioteca_Master\Biblioteca_Master\obj\x86\Debug\Biblioteca_Master.csproj.GenerateResource.Cache
